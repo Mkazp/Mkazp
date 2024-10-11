@@ -8,12 +8,12 @@
 </div>
 
 
-### Skills
+<div align="center"> 
+  <h2>Skills</h2>
+</div>
 
-
-
+#### Core stack
 <div style="display: flex;">
-  <div style="display: inline-block; width: 20%;">
     <a href="https://www.javascript.com/" target="_blank">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
     </a>
@@ -27,7 +27,8 @@
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="40" />
     </a>
   </div>
-</div>
+
+
 
 
 
@@ -98,12 +99,14 @@
 
                     
 
-### Socials
+
+<div align="center"> 
+  <h2>Socials</h2>
 <a href="https://t.me/Ren1SSanZ" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="32" height="32" alt="telegram group" />
 </a>   
 <a href="https://www.github.com/Mkazp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Mr_E1senhower" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
-
+</div>
  
 <br/>  
 
