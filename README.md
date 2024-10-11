@@ -1,4 +1,4 @@
-## Greetings! My name is Michael Kacprzak.
+## Greetings! My name is Michael.
 
 ### Frontend developer.
 <div style="display: flex; align-items: center; align: center;">
